@@ -1,6 +1,6 @@
 body {
-	background: #FAEBD7 url('../images/vintage-concrete.png');
-	color: #333;
+	background: url(https://images.squarespace-cdn.com/content/v1/5980c167cd0f68fc986c78a2/1518144907442-V9BMSH488EX5UH3FZ55Q/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/3H6A1502.jpg?format=2500w);
+	
 }
 
 a {
@@ -22,6 +22,9 @@ header {
 	color: BlanchedAlmond;
 	min-height: 100px;
 	margin-top: 60px;
+	font-family: 'Josefin Slab', serif;
+	font-size: 40px ;
+
 }
 
 header h1 {
@@ -68,5 +71,6 @@ footer {
 	background-color: #000;
 	color: white;
 	text-align: center;
+	font-family:'Josefin Slab', serif ;
  }
  footer p { padding: 20px; }
